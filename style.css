@@ -231,7 +231,7 @@ footer {
 
 #btn-twtr {
     clear: both;
-    color: #fff;
+    color: #28c2d6;
     border: 2px solid;
     border-radius: 3px;
     text-align: center;
@@ -243,12 +243,12 @@ footer {
     padding: 5px 10px;
     font-weight: 600;
     margin: 40px auto;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(65, 21, 177, 0.2);
     box-shadow: 0 0 0px 3px rgba(0, 0, 0, 0.2);
     opacity: 0.8
 }
 
 #btn-twtr:hover {
-    color: #fff;
+    color: #241cc2;
     opacity: 1
 }
